@@ -10,8 +10,8 @@ import string;
 
 client = 0;
 class data:
-	owner_id = [ @1739987250 ];
-	iris_ids = [ @866983694 ];
+	owner_id = [ 1739987250 ];
+	iris_ids = [ 866983694 ];
 
 class AJMod(loader.Module):
 	strings = {"name": "RavMod"};
